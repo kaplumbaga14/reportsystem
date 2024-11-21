@@ -1,0 +1,11 @@
+name: ReportSystem
+version: '${project.version}'
+main: me.reportsystem.reportsystem.ReportSystem
+api-version: '1.20'
+authors:
+  - kaplumbaga
+description: Minecraft sunucuları için discord'a report sistemi
+commands:
+  report:
+    description: Bir şikayet bildirin
+    usage: /<command> <message>

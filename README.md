@@ -3,11 +3,11 @@ Minecraft sunucunuz için /report komutu.
 
 Peki bu komut nedir?
 
-<img src="https://ibb.co/6DwTWZD" alt="alt text" width="320" height="180">
+![Görsel 1](https://ibb.co/6DwTWZD)
 
 Bu komut oyuncular tarafından kullanıldığı zaman
 
-<img src="https://ibb.co/Rv1ZKcv" alt="alt text" width="320" height="180">
+![Görsel 2](https://ibb.co/Rv1ZKcv)
 
 Şeklinde bir yazıyı config.yml dosyanızda tokenini girdiğiniz webhook yardımı ile gönderir.
 
